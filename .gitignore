@@ -1,0 +1,43 @@
+# Ignore all files that start with a dot.
+.*
+
+# Ignore node_modules directory.
+node_modules/
+
+# Ignore log files.
+*.log
+
+# Ignore compiled files.
+*.class
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+*.so
+*.dylib
+*.bin
+*.dat
+*.db
+*.pyc
+
+# Ignore build directories.
+build/
+dist/
+target/
+
+# Ignore OS generated files.
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore editor generated files.
+.vscode/
+.idea/
+
+# Ignore miscellaneous files.
+*.swp
+*.swo
+*.tmp
+*.bak
